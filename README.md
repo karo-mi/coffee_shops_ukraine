@@ -18,6 +18,7 @@ Three main steps can be differentiated in this project:
 ## Model
 
 The selected model was k-means with an 4 clusters selected by the elbow method.
+
 ![image](https://user-images.githubusercontent.com/64985339/143927942-bf235e9b-6270-4c05-8a63-ce0544c1e70b.png)
 
 Clusters are covering data based on the rating and number of reviews.
@@ -49,3 +50,5 @@ After a comprehensive analysis, it can be seen that coffee shops with at least t
 
 Step by step analysis is available in `coffee_shops_CaseStudy.ipynb`.
 Presentation for non-technical can be reviewed in `coffee_shops_presentation.pdf`
+
+*This analysis was done as a final assignment for Data Scientist Professional certified by DataCamp which I successfully achieved.
